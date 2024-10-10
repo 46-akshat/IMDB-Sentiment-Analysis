@@ -8,16 +8,19 @@ Clone the repository:
 bash
 Copy code
 git clone <repository_url>
+
 Navigate to the project directory:
 
 bash
 Copy code
 cd imdb-sentiment-analysis
+
 Install dependencies:
 
 bash
 Copy code
 pip install tensorflow keras
+
 Run the script:
 
 bash

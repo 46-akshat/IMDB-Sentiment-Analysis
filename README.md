@@ -4,18 +4,22 @@ This project uses TensorFlow Keras to classify IMDB movie reviews as either posi
 
 Installation
 Clone the repository:
+
 bash
 Copy code
 git clone <repository_url>
 Navigate to the project directory:
+
 bash
 Copy code
 cd imdb-sentiment-analysis
 Install dependencies:
+
 bash
 Copy code
 pip install tensorflow keras
 Run the script:
+
 bash
 Copy code
 python imdb_sentiment_analysis.py

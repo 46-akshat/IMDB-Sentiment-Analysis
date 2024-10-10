@@ -1,4 +1,6 @@
 **IMDB Sentiment Analysis with LSTM**
+
+
 This project uses TensorFlow Keras to classify IMDB movie reviews as positive or negative. It utilizes an LSTM-based model to capture context from text data for accurate sentiment analysis.
 
 Features

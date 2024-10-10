@@ -7,6 +7,7 @@ Features
 Model: Sequential model with Embedding, LSTM, and Dense layers.
 Dataset: IMDB dataset (50,000 labeled reviews).
 Goal: Binary classification (positive/negative).
+
 Installation
 Clone the repository:
 bash

@@ -21,6 +21,7 @@ pip install tensorflow keras
 Run the script:
 
 python imdb_sentiment_analysis.py
+
 Model Overview
 Embedding Layer: Converts words into dense vectors.
 LSTM Layer: Captures long-range dependencies.
